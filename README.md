@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on implementing various data structures in C
+- 🌱 I’m currently learning Firebase, Electron and C
+- 🤔 I’m looking for help with Web Dev/App Dev
+- 💬 Ask me about how I run ARM code on my x86 machine
+- 📫 How to reach me: nihalprakash314@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am addicted to Pokémon and Popcorn
+
 <!--
 **Nihal-Prakash/Nihal-Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
