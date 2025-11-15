@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on implementing various data structures in C
-- 🌱 I’m currently learning Firebase, Electron and C
-- 🤔 I’m looking for help with Web Dev/App Dev
+- 🔭 I’m currently working on GP and Cuda
+- 🌱 I’m currently learning C++, Cuda and Rust
+- 🤔 I’m looking for help with Competetive Programming
 - 💬 Ask me about how I run ARM code on my x86 machine
 - 📫 How to reach me: nihalprakash314@gmail.com
 - 😄 Pronouns: He/Him
