@@ -7,7 +7,6 @@
 - 📫 How to reach me: nihalprakash314@gmail.com
 - 😄 Pronouns: They/Them/Attack Helicopter
 - ⚡ Fun fact: I am addicted to Pokémon Porn
-- I GOON
 
 <!--
 **Nihal-Prakash/Nihal-Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
