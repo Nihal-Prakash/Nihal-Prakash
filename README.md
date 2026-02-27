@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with Competetive Programming
 - 💬 Ask me about how I run ARM code on my x86 machine
 - 📫 How to reach me: nihalprakash314@gmail.com
-- 😄 Pronouns: They/Them/Attack Helicopter
 - ⚡ Fun fact: I am addicted to Pokémon
 
 <!--
