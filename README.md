@@ -67,12 +67,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark_dimmed&hide_border=true&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Prakash&theme=github_dark_dimmed&hide_border=true&show_icons=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Prakash&theme=github-dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=github_dark_dimmed&hide_border=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Prakash&theme=github_dark_dimmed&hide_border=true&layout=compact" height="170" />
 </p>
 
 ---
@@ -88,5 +88,5 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=Nihal-Prakash&icon=0&color=6" />
 </p>
