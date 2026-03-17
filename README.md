@@ -1,6 +1,5 @@
 <h1 align="center">Hi! I am Nihal Prakash 👋</h1>
 <h3 align="center">Systems Builder • Performance-Focused Developer • Low Level</h3>
----
 
 ## 🚀 About Me
 
@@ -88,5 +87,5 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Nihal-Prakash&icon=0&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Nihal-Prakash&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
