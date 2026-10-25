@@ -1,91 +1,54 @@
-<h1 align="center">Hi! I am Nihal Prakash 👋</h1>
-<h3 align="center">Systems Builder • Performance-Focused Developer • Low Level</h3>
+## Ship · learn · repeat
 
-## 🚀 About Me
+<div align="center">
 
-- ⚙️ Focused on **systems, performance, and real-world tooling**
-- 💻 Work primarily in **C/C++ and Python**
-- 🧠 Strong interest in **GP programming and Cybersecurity**
-- 🔁 Iterate fast, optimize aggressively, and prefer **minimal, correct implementations**
-- 🛠️ Comfortable across **low-level logic → full pipelines**
+# Nihal Prakash
 
----
-
-## 🧩 Featured Projects
-
-### 📊 Payment Pipeline (Gmail → Structured Analytics)
-- Parses **bank transaction emails (HDFC)** using Python
-- Converts unstructured data → **clean structured datasets**
-- Outputs **Excel / dashboards for financial tracking**
-- Fully local pipeline (OAuth + parsing + pandas)
-
-**Core Stack:** Python, Pandas, Gmail API, Automation
-
----
-
-### ⚡ Custom Hashtable (C++ Implementation)
-- Built from scratch with:
-  - custom hashing (FNV-1a)
-  - collision handling
-  - performance benchmarking
-- Stress-tested for **accuracy vs speed trade-offs**
-- Focus on **real implementation, not STL abstraction**
-
-**Core Stack:** C++, Data Structures, Performance Testing
-
----
-
-### 📦 Compression System (C)
-- Implemented custom **file compression + decompression**
-- Explored **why naive compression fails (size inflation cases)**
-- Optimized for **space efficiency vs simplicity trade-off**
-
-**Core Stack:** C, File I/O, Encoding Logic
-
----
-
-## 💻 Tech Stack
-
-### Core
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Systems / Dev Environment
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Data / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+> Frontend or full-stack engineer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Prakash&theme=github_dark_dimmed&hide_border=true&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Prakash&theme=github-dark&hide_border=true" height="170" />
+  <img src="https://www.gitskins.com/api/section/hero?username=nihal-prakash&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96562963%3Fu%3Dcac3920b3c7dee6cb7d9ceae94b502d6191202df%26v%3D4" alt="nihal-prakash hero visual" />
 </p>
+
+</div>
+
+## The current loop
+
+> Building useful things and learning in public.
+
+- 👥 **3** followers · **5** following
+
+*Small, useful work over vague claims.*
+
+## Things I’m building
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Nihal-Prakash/Assembly-ARMv7-Projects">Assembly-ARMv7-Projects</a></b></td><td>Bunch of beginner friendly projects to learn and familiarize yourself with the Assembly ARM <br/><sub>Assembly · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Nihal-Prakash/Learning-C">Learning-C</a></b></td><td>Walk with me as we learn C<br/><sub>C · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Nihal-Prakash/C-Website">C-Website</a></b></td><td>I teach you C! sorta<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Nihal-Prakash/Memory_and_Addresses">Memory_and_Addresses</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+</table>
+
+## Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Prakash&theme=github_dark_dimmed&hide_border=true&layout=compact" height="170" />
+  <img src="https://www.gitskins.com/api/section/stats?username=nihal-prakash&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96562963%3Fu%3Dcac3920b3c7dee6cb7d9ceae94b502d6191202df%26v%3D4" alt="nihal-prakash stats visual" />
 </p>
 
----
+<p><code>104 contributions</code> · <code>0 day streak</code></p>
 
-## 🎯 Current Focus
+## The shipping calendar
 
-- ⚡ Writing **high-performance, minimal code**
-- 🧠 Deepening **DSA + systems-level understanding**
-- 🏗️ Building **end-to-end usable tools**
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nihal-Prakash&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nihal-prakash&theme=satan" alt="nihal-prakash contribution activity" />
 </p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=nihal-prakash&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96562963%3Fu%3Dcac3920b3c7dee6cb7d9ceae94b502d6191202df%26v%3D4" alt="nihal-prakash social visual" />
+</p>
+
+<a href="https://github.com/nihal-prakash">GitHub</a>
+
+<p align="center"><sub>Nihal Prakash · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
