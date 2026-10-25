@@ -4,7 +4,7 @@
 
 # Nihal Prakash
 
-> Frontend or full-stack engineer
+> Systems Builder • Performance-Focused Developer • Low Level ⚙️ Focused on systems, performance, and real-world tooling 💻 Work primarily in C/C++ and Python 🧠 Strong interest in GP programming, Cybersecurity and Quant
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=nihal-prakash&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96562963%3Fu%3Dcac3920b3c7dee6cb7d9ceae94b502d6191202df%26v%3D4" alt="nihal-prakash hero visual" />
